@@ -1,8 +1,8 @@
 ---
 name: 🔬 Lab / Práctica
 about: Template para labs y ejercicios prácticos
-title: 'Lab [X]: [NOMBRE]'
-labels: '🔬 lab'
+title: 'Lab [X]: '
+labels: ''
 assignees: ''
 ---
 

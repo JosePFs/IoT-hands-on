@@ -1,8 +1,8 @@
 ---
 name: 📹 Módulo de Video
 about: Template para módulos de video del curso IoT
-title: 'Semana X - Módulo Y: [NOMBRE]'
-labels: '📹 video'
+title: 'Semana X - Módulo Y: '
+labels: ''
 assignees: ''
 ---
 
@@ -10,6 +10,7 @@ assignees: ''
 - **Duración:** [XX] min
 - **Semana:** [X]
 - **Curso:** IoT Devices
+- **URL:** 
 
 ## ✅ Checklist
 - [ ] Ver video completo

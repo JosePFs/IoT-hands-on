@@ -1,8 +1,8 @@
 ---
 name: 💡 Aprendizaje Clave
 about: Concepto importante para recordar o aplicar
-title: '💡 [CONCEPTO]'
-labels: '💡 aprendizaje, 🔗 aplicar'
+title: '💡 '
+labels: ''
 assignees: ''
 ---
 
