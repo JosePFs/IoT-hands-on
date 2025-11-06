@@ -1,5 +1,5 @@
 ---
-name: Módulo
+name: 🧩 Módulo
 about: Template para módulos del curso IoT
 title: 'Módulo - '
 labels: ''
