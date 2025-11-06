@@ -1,31 +1,34 @@
 ---
 name: 💡 Aprendizaje Clave
 about: Concepto importante para recordar o aplicar
-title: '💡 '
+title: 'Aprendizaje Clave - '
 labels: ''
 assignees: ''
 ---
 
 ## 🎯 Concepto
-<!-- Explicación breve del concepto -->
 
 
 ## 📚 Origen
+- **Curso:** IoT Devices
 - **Módulo:** [Semana X - Módulo Y]
-- **Curso:** [IoT Devices]
+
+
+## 📖 Explicación
+
 
 ## 🔧 Aplicación práctica
-<!-- Cómo/cuándo usar esto en proyectos reales -->
+
+
+## 🗺️ Mapa Mental
+![Mapa mental](url-imagen)
 
 
 ## 💻 Ejemplo de código (si aplica)
 ```rust
-// Ejemplo de implementación
 ```
 
 ## 🔗 Para mi proyecto aeropónico
-<!-- Específicamente cómo lo usaré -->
 
 
 ## 📎 Referencias
-<!-- Links útiles, documentación -->

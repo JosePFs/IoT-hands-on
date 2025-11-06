@@ -11,26 +11,27 @@ assignees: ''
 - **Hardware necesario:** [Arduino, sensores, etc]
 - **Tiempo estimado:** [X]h
 
-## ✅ Checklist
 - [ ] Leer instrucciones completas
 - [ ] Verificar hardware disponible
-- [ ] Setup inicial del código
-- [ ] Implementar funcionalidad principal
-- [ ] Testing y debugging
-- [ ] Documentar resultados
-- [ ] Submit en Coursera (si aplica)
+- [ ] Setup del entorno
+- [ ] Implementar código base
+- [ ] Testing funcional
+- [ ] Debugging y ajustes
+- [ ] Documentar código
+- [ ] Screenshots/video del resultado
+- [ ] Submit (si aplica)
 
-## 🐛 Problemas encontrados
-<!-- Bugs, errores, soluciones -->
+## 🐛 Problemas encontrados y soluciones aplicadas
 
 
 ## 💡 Aprendizajes técnicos
-<!-- Conceptos nuevos, trucos descubiertos -->
+
+
+## 🗺️ Mapa Mental
+![Mapa mental](url-imagen)
 
 
 ## 🔗 Conexión con proyecto aeropónico
-<!-- Cómo aplicar esto a mi sistema real -->
 
 
 ## 📸 Screenshots / Videos
-<!-- Evidencia del lab funcionando -->
